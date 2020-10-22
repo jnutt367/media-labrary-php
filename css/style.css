@@ -703,7 +703,7 @@ form input[type="submit"] {
 }
 
 .footer {
-    background: #f0eeed;
+    background: blue;
     border-top: 3px solid #dddddd;
     padding: 42px 0;
     font-size: 12px;
